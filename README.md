@@ -1,5 +1,16 @@
 Watering Schedule CLI app for Tandem SE Apprentice
 
+Goal: Create an application that generates a watering schedule for 12 weeks for plants.
+
+Given: 'Apprentice_WeGrowInTandem_Data.json' contains data for plants.
+
+Acceptance Criteria:
+- The user can view which plant(s) to water on which date(s).
+- The schedule covers the next 12 weeks starting Monday, 2019-12-16.
+- No plants are watered on Saturdays or Sundays.
+- Each plant is watered on its desired schedule as close as possible.
+
+
 Pre-conditions:
 - Linux command line installed: macOS Terminal or Git BASH available here https://gitforwindows.org/
 - Install Python 2.7 from https://www.python.org/downloads/
