@@ -1,4 +1,4 @@
-Tandem SE Apprentice
+Watering Schedule CLI app for Tandem SE Apprentice
 
 Pre-conditions:
 - Linux command line installed: macOS Terminal or Git BASH available here https://gitforwindows.org/
