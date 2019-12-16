@@ -10,6 +10,7 @@ Acceptance Criteria:
 - No plants are watered on Saturdays or Sundays.
 - Each plant is watered on its desired schedule as close as possible.
 
+-----
 
 Pre-conditions:
 - Linux command line installed: macOS Terminal or Git BASH available here https://gitforwindows.org/
