@@ -22,8 +22,7 @@ Pre-conditions:
 - In Linux, be in the working directory, e.g. for Windows '/c/Users/username'
 
 
-To run:
-- In working directory, run command 'python json4.py'
+To run: In working directory, run command 'python json4.py'
 
 
 ## Extensions
