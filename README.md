@@ -2,7 +2,7 @@
 
 ## Instructions
 
-Goal: Create an application that generates a watering schedule for 12 weeks for plants.
+#Goal: Create an application that generates a watering schedule for 12 weeks for plants.
 
 Given: 'Apprentice_WeGrowInTandem_Data.json' contains data for plants.
 
@@ -26,7 +26,8 @@ To run:
 - In working directory, run command 'python json4.py'
 
 
-## Extensions I would like to add:
+## Extensions
+
 - I formatted my stdout with 'dateTime' and 'summary' keys to add it to Google Calendar through their Python API. However, I was not able to figure out how to pass my Google Calendar EVENT details into the Google script.
 - I tested 'json4.py' and noted that the standard Python errors would result if the filename was not found in the working directory or if I changed the start_date to a year out of range. Thus, I didn't add other ValueErrors to 'json4.py'.
 - I tried to throw an error message if 'Apprentice_WeGrowInTandem_Data.json' is a blank file, but it didn't work.
