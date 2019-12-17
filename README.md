@@ -22,6 +22,7 @@ Pre-conditions:
 To run:
 - In working directory, run command 'python json4.py'
 
+-----
 
 Extensions I would like to add:
 - I formatted my stdout with 'dateTime' and 'summary' keys to add it to Google Calendar through their Python API. However, I was not able to figure out how to pass my Google Calendar EVENT details into the Google script.
