@@ -1,4 +1,4 @@
-# Watering Schedule CLI app for Tandem SE Apprentice
+# Watering Schedule CLI app
 
 ## Instructions
 
