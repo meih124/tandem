@@ -2,7 +2,7 @@
 
 ## Instructions
 
-#Goal: Create an application that generates a watering schedule for 12 weeks for plants.
+Goal: Create an application that generates a watering schedule for 12 weeks for plants.
 
 Given: 'Apprentice_WeGrowInTandem_Data.json' contains data for plants.
 
